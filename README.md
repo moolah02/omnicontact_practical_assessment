@@ -1,4 +1,4 @@
-Omnicontact Practical AssessmentFull-stack Laravel + React app for managing users. Kinda rushed this, sorry 😊.
+Omnicontact Practical AssessmentFull-stack Laravel + React app for managing users. Kinda rushed this, was running behind on time!
 
 Features- Backend (Laravel): CRUD API for users, MySQL DB, validation, JSON responses, age filter.
 - Frontend (React): List users (5/page), search name/email, modal for details, delete users. Tailwind CSS for responsiveness.
